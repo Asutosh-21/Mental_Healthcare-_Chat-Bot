@@ -45,8 +45,7 @@ bashpython train_model.py
 This will create the necessary model files in the models directory.
 7. Run the Flask application
 bashpython app.py
-The application will be available at http://127.0.0.1:5000/.
-Project Structure
+
 
 app.py: Main Flask application
 templates/: HTML templates for the web interface
